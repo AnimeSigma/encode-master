@@ -28,7 +28,7 @@ Set Thumbnail
 Settings
 ➠ Use /settings Command To Check Settings
 
-Made With 💕 By @Tellybots_4u
+Made With By @AnimeSigma_Network
 """
     ABOUT_TEXT = """
 🤖 My Name : Media-Encoder-Bot\n
