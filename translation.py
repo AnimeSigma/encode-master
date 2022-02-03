@@ -13,7 +13,7 @@ I can Encode Any Video or File in Negligible Quality
 
 Use Help Command to Know How to Use me
 
-Made With 💕 By @Tellybots_4u
+Made By @Vedant_Vn
 """
     HELP_TEXT = """
 Recommended
@@ -40,8 +40,8 @@ Made With 💕 By @Tellybots_4u
 
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/tellybots_4u'),
-        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/tellybots_support')
+        InlineKeyboardButton('Anime Channel', url='https://telegram.me/AnimeSigma'),
+        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/NarutoRobot_support')
         ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
         InlineKeyboardButton('⛔ Close', callback_data='close')
